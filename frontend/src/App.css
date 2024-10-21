@@ -14,7 +14,7 @@
   align-items: center;
   justify-content: space-between;
   padding: 20px 40px;
-  width: 115rem;
+  width: 100%;
   font-family: "Inter", serif;
   font-weight: 500;
   transition: background-color 0.3s ease, padding 0.3s ease; /* Transição para animação de scroll */
